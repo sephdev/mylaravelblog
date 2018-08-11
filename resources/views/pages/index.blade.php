@@ -3,7 +3,7 @@
 @section('content')
     <div class="jumbotron text-center">
             <h1>{{$title}}</h1>
-            <p>This is the laravel application from the "Laravel From Scratch" created by Joseph Herbert Tandingan
+            <p>Laravel Site created by Joseph Herbert Tandingan
 
             </p>
             @if(Auth::guest())
